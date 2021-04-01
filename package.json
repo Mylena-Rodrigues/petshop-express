@@ -1,0 +1,27 @@
+{
+  "name": "petshop-express",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mylena-Rodrigues/petshop-express.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Mylena-Rodrigues/petshop-express/issues"
+  },
+  "homepage": "https://github.com/Mylena-Rodrigues/petshop-express#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "fs": "0.0.1-security",
+    "moment": "^2.29.1",
+    "nodemon": "^2.0.7"
+  }
+}

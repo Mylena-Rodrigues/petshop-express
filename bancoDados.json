@@ -1,0 +1,80 @@
+{
+    "pets": [
+      {
+        "nome": "Mike",
+        "tipo": "Cachorro",
+        "sexo": "Masculina",
+        "idade": 8,
+        "raca": "vira-lata",
+        "peso": 10,
+        "tutor": "Mylena",
+        "contato": "(81) 98682-6693",
+        "vacinado": true,
+        "servicos": [
+          {
+            "nome": "banho",
+            "data": "29-03-2021"
+          },
+          {
+            "nome": "banho",
+            "data": "29-03-2021"
+          },
+          {
+            "nome": "banho",
+            "data": "29-03-2021"
+          }
+        ]
+      },
+      {
+        "nome": "Theodoro",
+        "tipo": "Gato",
+        "idade": 3,
+        "raca": "vira-lata",
+        "peso": 4.5,
+        "sexo": "Masculina",
+        "tutor": "Gilvaneide",
+        "contato": "(81) 98675-6789",
+        "vacinado": true,
+        "servicos": [
+          {
+            "nome": "banho",
+            "data": "29-03-2021"
+          }
+        ]
+      },
+      {
+        "nome": "Frida",
+        "tipo": "Gato",
+        "idade": 8,
+        "raca": "vira-lata",
+        "peso": 3,
+        "sexo": "Feminino",
+        "tutor": "Mylena",
+        "contato": "(81) 98682-6693",
+        "vacinado": true,
+        "servicos": [
+          {
+            "nome": "corte de unhas",
+            "data": "29-03-2021"
+          }
+        ]
+      },
+      {
+        "nome": "Theodor",
+        "tipo": "Cachorro",
+        "idade": 3,
+        "raca": "Budogue",
+        "peso": 5,
+        "sexo": "Masculina",
+        "tutor": "Lucivaldo",
+        "contato": "(81) 98675-6789",
+        "vacinado": true,
+        "servicos": [
+          {
+            "nome": "banho",
+            "data": "30-03-2021"
+          }
+        ]
+      }
+    ]
+  }
